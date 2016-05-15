@@ -32,6 +32,7 @@ Before using the code, please make sure that you have installed the SDPT3‐4.0 
 Package List:
   
   Three main functions:
+      
       MainAccuracyComparision.m is used to generate Fig. 1, Fig. 2, Fig. 5, and Fig. 6.
       
       MainSparSenSe1500.m is used to generate Fig. 3 and Fig. 4.
@@ -39,6 +40,7 @@ Package List:
       MainTimeCostComparison.m is used to generate Fig. 7.
   
   Five Sensor placement algorithms:
+      
       Convexopt.m
       
       SparSenSe_CVX.m
@@ -50,6 +52,7 @@ Package List:
       MPME. m
       
   Other functions:
+    
     LocalOptimization.m: local optimization in terms of MSE index
     
     LocalOptimizationWCEV.m: local optimization in terms of WCEV index
