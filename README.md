@@ -56,11 +56,11 @@ Package List:
       
   Other functions:
     
-    LocalOptimization.m: local optimization in terms of MSE index
-    
-    LocalOptimizationWCEV.m: local optimization in terms of WCEV index
-    
-    Criteriacomputation.m: compute the MSE index, the WCEV index and the condition number of the dual observation matrix for a given sensor configuration.
+        LocalOptimization.m: local optimization in terms of MSE index
+        
+        LocalOptimizationWCEV.m: local optimization in terms of WCEV index
+        
+        Criteriacomputation.m: compute the MSE index, the WCEV index and the condition number of the dual observation matrix for a given sensor configuration.
 
 
 Author Information: 
