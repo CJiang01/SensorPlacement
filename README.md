@@ -1,11 +1,14 @@
 # Sensor_Placement
 Matlab Code used in the paper: Sensor placement by maximal projection on minimum eigenspace for linear inverse problems, IEEE-TSP, 2016
 
-The total size of all the code is less than 200KB.
+
 
 All the code have been tested using MATLAB 7.8.0 (2009a)
 
+
+
 Before using the code, please make sure that you have installed the SDPT3‐4.0 solver and CVX toolbox.
+
 
 1. The CovnexOpt.m requires the SDPT3‐4.0.
     
@@ -19,9 +22,12 @@ Before using the code, please make sure that you have installed the SDPT3‐4.0 
     
     For more detail about the SDPT3‐4.0, please visit: www.math.nus.edu.sg/~mattohkc//sdpt3.html
 
+
 2. The SparSenSe_CVX.m requires the CVX toolbox.
 
     To acquire the CVX toolbox, please Visit: http://cvxr.com/cvx/
+
+
 
 Package List:
   
@@ -50,9 +56,13 @@ Package List:
     
     Criteriacomputation.m: compute the MSE index, the WCEV index and the condition number of the dual observation matrix for a given sensor configuration.
 
+
 Author Information: Chaoyang Jiang,
+
                     School of Electrical and Electronic Engineering,
+                    
                     Nanyang Technological University, Singapore
+                    
                     E‐mail: chaoyangjiang@hotmail.com, cjiang003@e.ntu.edu.sg
 
 If you meet any problem in using the code, please feel free to contact with the author
