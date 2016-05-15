@@ -3,7 +3,7 @@
 
 The Matlab Code is used in the paper: 
     
-    <Sensor placement by maximal projection on minimum eigenspace for linear inverse problems, IEEE-TSP, 2016>
+    Sensor placement by maximal projection on minimum eigenspace for linear inverse problems, IEEE-TSP, 2016
 
 
 All the code have been tested using MATLAB 7.8.0 (2009a)
