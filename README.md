@@ -1,5 +1,5 @@
 # Sensor_Placement
-Matlab Code used in the paper: Sensor placement by maximal projection on minimum eigenspace for linear inverse problems, IEEE-TSP, 2016
+The Matlab Code is used in the paper: Sensor placement by maximal projection on minimum eigenspace for linear inverse problems, IEEE-TSP, 2016
 
 
 
@@ -12,20 +12,20 @@ Before using the code, please make sure that you have installed the SDPT3‐4.0 
 
 1. The CovnexOpt.m requires the SDPT3‐4.0.
     
-    The users can freely download the SDPT3‐4.0 solver from: www.math.nus.edu.sg/~mattohkc//sdpt3.html
-    
-    Every time before using the code, do the following two steps to start up the SDPT3‐4.0 solver:
-    
-    Step one: run Installmex
-
-    Step two: run startup (run both in command window)
-    
-    For more detail about the SDPT3‐4.0, please visit: www.math.nus.edu.sg/~mattohkc//sdpt3.html
+        The users can freely download the SDPT3‐4.0 solver from: www.math.nus.edu.sg/~mattohkc//sdpt3.html
+        
+        Every time before using the code, do the following two steps to start up the SDPT3‐4.0 solver:
+        
+                Step one: run Installmex
+            
+                Step two: run startup (run both in command window)
+        
+        For more detail about the SDPT3‐4.0, please visit: www.math.nus.edu.sg/~mattohkc//sdpt3.html
 
 
 2. The SparSenSe_CVX.m requires the CVX toolbox.
 
-    To acquire the CVX toolbox, please Visit: http://cvxr.com/cvx/
+        To acquire the CVX toolbox, please Visit: http://cvxr.com/cvx/
 
 
 
