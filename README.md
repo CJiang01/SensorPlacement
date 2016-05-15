@@ -57,8 +57,10 @@ Package List:
     Criteriacomputation.m: compute the MSE index, the WCEV index and the condition number of the dual observation matrix for a given sensor configuration.
 
 
-Author Information: Chaoyang Jiang,
+Author Information: 
 
+                    Chaoyang Jiang,
+                    
                     School of Electrical and Electronic Engineering,
                     
                     Nanyang Technological University, Singapore
