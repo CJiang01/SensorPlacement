@@ -11,7 +11,7 @@ Before using the code, please make sure that you have installed the SDPT3‐4.0 
     
     The users can freely download the SDPT3‐4.0 solver from: www.math.nus.edu.sg/~mattohkc//sdpt3.html
     
-    Every time before using the code, do the two steps to start up the SDPT3‐4.0 solver:
+    Every time before using the code, do the following two steps to start up the SDPT3‐4.0 solver:
     
     Step one: run Installmex
 
