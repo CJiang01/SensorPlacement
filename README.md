@@ -8,9 +8,11 @@ All the code have been tested using MATLAB 7.8.0 (2009a)
 Before using the code, please make sure that you have installed the SDPT3‐4.0 solver and CVX toolbox.
 
 1. The CovnexOpt.m requires the SDPT3‐4.0.
-    The users can freely download the SDPT3‐4.0 solver from:
-    www.math.nus.edu.sg/~mattohkc//sdpt3.html
+    
+    The users can freely download the SDPT3‐4.0 solver from: www.math.nus.edu.sg/~mattohkc//sdpt3.html
+    
     Every time before using the code, do the two steps to start up the SDPT3‐4.0 solver:
+    
     Step one: run Installmex
     Step two: run startup (run both in command window)
     For more detail about the SDPT3‐4.0, please visit:
